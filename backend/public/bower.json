@@ -1,0 +1,21 @@
+{
+  "name": "raspi-cam",
+  "homepage": "https://github.com/musukvl/raspi-timelapse-server",
+  "authors": [
+    "Alexey Ryazhskikh <aryazhskikh@8th-sphere.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}

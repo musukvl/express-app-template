@@ -1,0 +1,7 @@
+{
+  "app-port" : 8088,
+  "env": "dev",
+  "mongo-connection-string": "mongodb://localhost:27017/test-app2",
+  "upload-folder": "/u",
+  "loggers": "all"
+}
